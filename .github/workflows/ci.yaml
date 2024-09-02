@@ -12,8 +12,6 @@ on:
   # Allows deployment to be invoked manually through the GitHub Actions user interface.
   #
   workflow_dispatch: 
-
-  workflow_dispatch: 
   
 jobs:
   build:
